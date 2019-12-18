@@ -10,7 +10,7 @@ When guessing the word, you are given a count for how many **bulls** and how man
 
 ## What is a bull and what is a cow?
 
-A bull is a letter that is in both your guess and the hidden word and is in the same spot in the word.
+A bull is a letter that is in both your guess and the hidden word, and is in the same spot in the word.
 
 A cow is a letter that is within both your guess and the hidden word as well. The difference is it happens to be 
 in a different spot within the hidden word compared to your guess.
