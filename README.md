@@ -1,7 +1,7 @@
 # BullCows: What to know
 ![BullCowPic](https://i.imgur.com/LvioYF5.png)
 
-Bull Cows is a game that revolves around guessing the **hidden word**.
+Made with the Unreal Engine, Bull Cows is a game that revolves around guessing the **hidden word**.
 This hidden word happens to be an isogram *(A word with no repeating letters).*
 For every guess that is wrong, you lose a life! 
 Guess the isogram to win before you lose all your lives.
